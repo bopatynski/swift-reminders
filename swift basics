@@ -1,0 +1,7 @@
+Sets
+Sets are similar to arrays, except you can’t add duplicate items, and they don’t store items in a particular order.
+
+This makes a set of numbers:
+
+var numbers = Set([1, 1, 3, 5, 7])
+print(numbers)
